@@ -67,11 +67,13 @@ def q_learning(env,
 
 
 ### State value functions of Monte Carlo method:
-<img width="1623" height="735" alt="image" src="https://github.com/user-attachments/assets/eb240b22-de0f-4015-b29e-6987bd42c03f" />
+<img width="1732" height="630" alt="image" src="https://github.com/user-attachments/assets/016becfc-2a23-420c-8ef0-a8f70a5ffc08" />
+
 
 
 ### State value functions of Qlearning method:
-<img width="1635" height="735" alt="image" src="https://github.com/user-attachments/assets/8a4af37f-00b9-4fcd-9f3d-51f99462a397" />
+<img width="1727" height="593" alt="image" src="https://github.com/user-attachments/assets/0423bf31-80df-46f3-925a-c8c79c12d3c6" />
+
 
 
 ## RESULT:
